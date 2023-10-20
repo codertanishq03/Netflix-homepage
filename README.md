@@ -16,7 +16,7 @@ To get started with this project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/codertanishq03/Tanishq-portfolio.git
+[git clone https://github.com/codertanishq03/Tanishq-portfolio.git](https://github.com/codertanishq03/Netflix-homepage.git)
 ```
 
 2. Open the project in your preferred code editor.
